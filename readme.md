@@ -12,5 +12,13 @@
   <li>[react-navigation](https://reactnavigation.org/)</li>
   <li>[react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler)</li>
 </ul>
+<h2>:bar_chart:Funcionalidades</h2>
+<ul>
+  <li>Cadastro de professores e dias com os horarios das aulas</li>
+  <li>realização de conexões com os professores</li>
+  <li>listagem de professores</li>
+  <li>separação de professores favoritos e nao favoritos</li>
+  <li>utilização de filtros para pesquisa de professores</li>
+</ul>
 <hr>
 <h4>Desenvolvido por Francisco Noberto Gomes Carneiro Filho</h4>
